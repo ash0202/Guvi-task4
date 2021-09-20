@@ -1,0 +1,49 @@
+.contain{
+    margin: 0px;
+    background-color: antiquewhite;
+}
+.button{
+    color: white;
+    background-color: rgb(219, 145, 119);
+    border-radius: 5px;
+    border-style: none;
+   
+}
+.text{
+    padding-left: 50px;
+}
+.now{
+    color: rgb(219, 145, 119);;
+}
+.upper1{
+    font-family: 'Lato', sans-serif;
+}
+.image
+{
+    display: flex;
+    align-content: space-between; 
+  
+}
+.img{
+    margin-left: 280px;
+}
+.start{
+    margin-left: 90px;
+    margin-top: 0px;
+}
+.core{
+    flex-wrap: wrap;
+    
+}
+.center{
+    display: flex;
+    justify-content: center;
+  
+}
+.lst{
+    display: flex;
+    justify-content: center;
+}
+.last{
+    display: flex;
+}
